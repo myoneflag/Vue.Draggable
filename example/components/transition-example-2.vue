@@ -100,7 +100,7 @@ export default {
 }
 
 .ghost {
-  opacity: 0.5;
+  opacity: 1;
   background: #c8ebfb;
 }
 
